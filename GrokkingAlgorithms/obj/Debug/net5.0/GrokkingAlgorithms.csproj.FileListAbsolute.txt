@@ -1,0 +1,5 @@
+D:\GitHub\GrokkingAlgorithms\grokkingalgorithms\obj\Debug\net5.0\GrokkingAlgorithms.csproj.AssemblyReference.cache
+D:\GitHub\GrokkingAlgorithms\grokkingalgorithms\obj\Debug\net5.0\GrokkingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\GrokkingAlgorithms\grokkingalgorithms\obj\Debug\net5.0\GrokkingAlgorithms.AssemblyInfoInputs.cache
+D:\GitHub\GrokkingAlgorithms\grokkingalgorithms\obj\Debug\net5.0\GrokkingAlgorithms.AssemblyInfo.cs
+D:\GitHub\GrokkingAlgorithms\grokkingalgorithms\obj\Debug\net5.0\GrokkingAlgorithms.csproj.CoreCompileInputs.cache
